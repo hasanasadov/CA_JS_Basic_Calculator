@@ -1,3 +1,3 @@
 # Code_Academy_Basic_Calculator
 
-![<img scr="result,png" width="20px" /> ](result.png)
+<img title="result" alt="Result" src="result.png">
