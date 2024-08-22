@@ -1,3 +1,3 @@
 # Code_Academy_Basic_Calculator
 
-![result](result.png){ width = "50px"; }
+![<img scr="result,png" width="20" /> ](result.png)
